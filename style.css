@@ -1,0 +1,6 @@
+label {
+    /*Para ter certeza que todas as labels tem o mesmo tamanho e estão alinhadas */
+    display: inline-block;
+    width:95px;
+    text-align: right;
+}
