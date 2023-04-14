@@ -8,7 +8,7 @@
       
     <form method="post" action="BD.php">
 	<!-- elementos de digitação -->
-      <p>Nome: <input type="text" name="nome" placeholder="Michel Jackson da Silva" value="<?php echo $tipo; ?>"/></p>
+      <p>Nome: <input type="text" name="nome" placeholder="Michael Jackson da Silva" value="<?php echo $tipo; ?>"/></p>
       <p>CPF: <input type="number" name="cpf" placeholder="123.456.789-00" value="<?php echo $cpf; ?>"/></p>
       <p><input type="submit" name="ok" value="Envia"/><input type="submit" name="Nok" value="Cancela"/></p>
 		</form> 
