@@ -4,7 +4,7 @@ if(isset($_POST['inserir'])){
           //insere novo dado
           echo 'INSERIR';
           $tipo='Tipo_ins';
-          envia_formulario("form_completo.html");
+          envia_formulario("index.html");
 }else
      {
 //botão deletar
